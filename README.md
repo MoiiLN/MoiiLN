@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Moisés
 
-- 🎓 Studying **1º DAW** (Web Application Development)
+- 🎓 Studying **2º DAW** (Web Application Development)
 - 💻 Interested in **Frontend Development**
 - 🛠️ Tech Stack: **.html**, **.css**, **.js**, **.py**
 - 🌱 Always learning and building
