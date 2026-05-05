@@ -2,7 +2,7 @@
 
 - 🎓 Studying **2º DAW** (Web Application Development)
 - 💻 Interested in **Frontend Development**
-- 🛠️ Tech Stack: **.html**, **.css**, **.js**, **.py**
+- 🛠️ Tech Stack: **.html**, **.css**, **.js**, **.py**, **.vue**, **.ts**
 - 🌱 Always learning and building
 
 Thanks for visiting!
