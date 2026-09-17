@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Moisés
 
-- 🎓 Studying **2º DAW** (Web Application Development)
+- 🎓 Studying **2º DAM** (Multiplatform Application Development)
 - 💻 Interested in **Frontend Development**
 - 🛠️ Tech Stack: **.html**, **.css**, **.js**, **.py**, **.vue**, **.ts**
 - 🌱 Always learning and building
