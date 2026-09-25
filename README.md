@@ -6,7 +6,7 @@
 
 ### Estudiante de 2º DAM | Java & Desarrollo de aplicaciones
 
-📍 IES Puerto de la Cruz · Tenerife
+📍 IES Telesforo Bravo · Tenerife
 
 </div>
 
@@ -42,7 +42,7 @@ Actualmente estoy profundizando en **Java** y en el desarrollo de aplicaciones, 
 
 - 🏛️ **Ayuntamiento de Santa Úrsula** — Formación en empresa · 2º DAW
 - 🚀 **Hyperspace Canarias** — Formación en empresa · 1º DAW
-- 💻 **Formación en empresa** — 2º SMR
+- 💻 **Ayuntamiento de La Orotava** — 2º SMR
 
 ---
 
