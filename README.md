@@ -1,5 +1,3 @@
-<!-- HEADER -->
-
 <div align="center">
 
 # 👨‍💻 MOISÉS PÉREZ
@@ -16,51 +14,63 @@
 
 Soy estudiante de **2º DAM**, después de haber completado **DAW** y **SMR**.
 
-Mi interés por la programación comenzó durante SMR, cuando descubrí el desarrollo web y me llamó la atención poder transformar unas líneas de código en algo visible.
+Mi interés por la programación comenzó en SMR, cuando descubrí el desarrollo web y me llamó la atención poder transformar unas líneas de código en algo visible.
 
-Actualmente estoy profundizando en **Java** y en el desarrollo de aplicaciones, con interés en seguir explorando **IA y Big Data**.
+Actualmente estoy profundizando en **Java y el desarrollo de aplicaciones**, con interés en **IA y Big Data**.
 
 ---
 
 ## 🧰 Technologies & Tools
 
-### 💻 Languages & Development
+**Languages & Development**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,django" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,django" />
 </p>
 
-### 🗄️ Databases & Tools
+**Databases & Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sqlite,git,github,idea,vscode,linux" />
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,git,github,idea,vscode,linux" />
 </p>
 
 ---
 
 ## 💼 Experience
 
-- 🏛️ **Ayuntamiento de Santa Úrsula** — Formación en empresa · 2º DAW
-- 🚀 **Hyperspace Canarias** — Formación en empresa · 1º DAW
-- 💻 **Ayuntamiento de La Orotava** — 2º SMR
+**🏛️ Ayuntamiento de Santa Úrsula**  
+`Formación en empresa · 2º DAW`
+
+**🚀 Hyperspace Canarias**  
+`Formación en empresa · 1º DAW`
+
+**💻 Formación en empresa · 2º SMR**
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Proyectos destacados
 
 ### 🖨️ PideloEn3D
-Aplicación web para la gestión de pedidos de impresión 3D.
+
+Aplicación web de pedidos de impresión 3D.
+
+Proyecto personal iniciado en **2026** y actualmente **en desarrollo activo**.
 
 `Python` · `Django` · `SQLite` · `HTML` · `CSS`
 
-[🔗 Repositorio](https://github.com/MoiiLN/PideloEn3D)
+🔒 Repositorio privado
+
+---
 
 ### 🌊 KnowFlow
-Proyecto desarrollado como TFG durante DAW.
+
+Aplicación web desarrollada como **TFG de 2º DAW**.
+
+Proyecto con el que puse en práctica los conocimientos adquiridos durante el ciclo.
 
 `Python` · `Django` · `SQLite` · `HTML` · `CSS`
 
-[🔗 Repositorio](https://github.com/MoiiLN/KnowFlow)
+🔒 Repositorio privado
 
 ---
 
@@ -72,29 +82,15 @@ Seguir creciendo como desarrollador, profundizando en **Java** y ampliando mis c
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MoiiLN&show_icons=true&hide_border=true&theme=default" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiiLN&layout=compact&hide_border=true&theme=default" height="165"/>
-
-</div>
+<!-- Estadísticas de GitHub -->
 
 ---
 
 ## 📫 Contact
 
-<div align="center">
+📧 **Email:** [moiicnfg@gmail.com](mailto:moiicnfg@gmail.com)
 
-<a href="mailto:moiicnfg@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-moiicnfg%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/MoiiLN">
-  <img src="https://img.shields.io/badge/GITHUB-MoiiLN-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+💻 **GitHub:** [github.com/MoiiLN](https://github.com/MoiiLN)
 
 ---
 
