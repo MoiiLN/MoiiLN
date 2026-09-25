@@ -45,6 +45,7 @@ Actualmente estoy profundizando en **Java y el desarrollo de aplicaciones**, con
 
 **💻 Ayuntamiento de La Orotava · 2º SMR**
 `Formación en empresa · 1º DAW`
+
 ---
 
 ## ⭐ Proyectos destacados
