@@ -35,17 +35,16 @@ Actualmente estoy profundizando en **Java y el desarrollo de aplicaciones**, con
 </p>
 
 ---
-
 ## 💼 Experience
 
-**🏛️ Ayuntamiento de Santa Úrsula**  
+**🏛️ Ayuntamiento de Santa Úrsula**
 `Formación en empresa · 2º DAW`
 
-**🚀 Hyperspace Canarias**  
+**🚀 Hyperspace Canarias**
 `Formación en empresa · 1º DAW`
 
 **💻 Ayuntamiento de La Orotava · 2º SMR**
-`Formación en empresa · 2º SMR`
+`Formación en empresa · 1º DAW`
 ---
 
 ## ⭐ Proyectos destacados
