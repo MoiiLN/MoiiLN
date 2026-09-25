@@ -14,7 +14,7 @@
 
 Soy estudiante de **2º DAM**, después de haber completado **DAW** y **SMR**.
 
-Mi interés por la programación comenzó en SMR, cuando descubrí el desarrollo web y me llamó la atención poder transformar unas líneas de código en algo visible.
+Mi interés por la programación comenzó en SMR, cuando descubrí el desarrollo web de forma remota y acabó en una pasión inesperada.
 
 Actualmente estoy profundizando en **Java y el desarrollo de aplicaciones**, con interés en **IA y Big Data**.
 
@@ -44,8 +44,8 @@ Actualmente estoy profundizando en **Java y el desarrollo de aplicaciones**, con
 **🚀 Hyperspace Canarias**  
 `Formación en empresa · 1º DAW`
 
-**💻 Formación en empresa · 2º SMR**
-
+**💻 Ayuntamiento de La Orotava · 2º SMR**
+`Formación en empresa · 2º SMR`
 ---
 
 ## ⭐ Proyectos destacados
@@ -64,7 +64,7 @@ Proyecto personal iniciado en **2026** y actualmente **en desarrollo activo**.
 
 ### 🌊 KnowFlow
 
-Aplicación web desarrollada como **TFG de 2º DAW**.
+Aplicación web de educación desarrollada como **TFG de 2º DAW**.
 
 Proyecto con el que puse en práctica los conocimientos adquiridos durante el ciclo.
 
@@ -88,7 +88,7 @@ Seguir creciendo como desarrollador, profundizando en **Java** y ampliando mis c
 
 ## 📫 Contact
 
-📧 **Email:** [moiicnfg@gmail.com](mailto:moiicnfg@gmail.com)
+📧 **Email:** [moiicnfg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=moiicnfg@gmail.com)
 
 💻 **GitHub:** [github.com/MoiiLN](https://github.com/MoiiLN)
 
