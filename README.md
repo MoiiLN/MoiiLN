@@ -80,12 +80,6 @@ Seguir creciendo como desarrollador, profundizando en **Java** y ampliando mis c
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Estadísticas de GitHub -->
-
----
-
 ## 📫 Contact
 
 📧 **Email:** [moiicnfg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=moiicnfg@gmail.com)
@@ -96,4 +90,4 @@ Seguir creciendo como desarrollador, profundizando en **Java** y ampliando mis c
 
 ## ✨ Motivational Quote
 
-> **"Empecé creando páginas; ahora quiero entender todo lo que hay detrás de ellas."**
+> **"¿Por qué no?"**
