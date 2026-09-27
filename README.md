@@ -90,4 +90,4 @@ Seguir creciendo como desarrollador, profundizando en **Java** y ampliando mis c
 
 ## ✨ Motivational Quote
 
-> **"¿Por qué no?"**
+> **"Why not?"**
