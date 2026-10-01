@@ -22,28 +22,26 @@ Actualmente estoy profundizando en **Java y el desarrollo de aplicaciones**, con
 
 ## 🧰 Technologies & Tools
 
-**Languages & Development**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,django" />
-</p>
-
-**Databases & Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,git,github,idea,vscode,linux" />
-</p>
+| Category | Technologies |
+|:---|:---|
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,python" /> |
+| **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,django" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=sqlite" /> |
+| **Development Tools** | <img src="https://skillicons.dev/icons?i=idea,vscode" /> |
+| **Version Control** | <img src="https://skillicons.dev/icons?i=git,github" /> |
+| **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux" /> |
 
 ---
+
 ## 💼 Experience
 
-**🏛️ Ayuntamiento de Santa Úrsula**
+**🏛️ Ayuntamiento de Santa Úrsula**  
 `Formación en empresa · 2º DAW`
 
-**🚀 Hyperspace Canarias**
+**🚀 Hyperspace Canarias**  
 `Formación en empresa · 1º DAW`
 
-**💻 Ayuntamiento de La Orotava**
+**💻 Ayuntamiento de La Orotava**  
 `Formación en empresa · 2º SMR`
 
 ---
