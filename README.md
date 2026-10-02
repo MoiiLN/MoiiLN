@@ -2,7 +2,7 @@
 
 # 👨‍💻 MOISÉS PÉREZ
 
-### Estudiante de 2º DAM | Java & Desarrollo de aplicaciones
+### 2nd-year Multiplatform Application Development Student | Java & Application Development
 
 📍 IES Telesforo Bravo · Tenerife
 
@@ -10,17 +10,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Soy estudiante de **2º DAM**, después de haber completado **DAW** y **SMR**.
+I am a **2nd-year Multiplatform Application Development student**, after completing **Web Application Development** and **Microcomputer Systems and Networks**.
 
-Mi interés por la programación comenzó en SMR, cuando descubrí el desarrollo web de forma remota y acabó en una pasión inesperada.
+My interest in programming began during my studies in Microcomputer Systems and Networks, when I discovered web development remotely and it eventually became an unexpected passion.
 
-Actualmente estoy profundizando en **Java y el desarrollo de aplicaciones**, con interés en **IA y Big Data**.
+I am currently focusing on **Java and application development**, with an interest in **AI and Big Data**.
 
 ---
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 | Category | Technologies |
 |:---|:---|
@@ -33,52 +33,52 @@ Actualmente estoy profundizando en **Java y el desarrollo de aplicaciones**, con
 
 ---
 
-## 💼 Experience
+## Experience
 
-**🏛️ Ayuntamiento de Santa Úrsula**  
-`Formación en empresa · 2º DAW`
+**🏛️ Santa Úrsula Town Hall**  
+`Work-based training · 2nd-year Web Application Development`
 
 **🚀 Hyperspace Canarias**  
-`Formación en empresa · 1º DAW`
+`Work-based training · 1st-year Web Application Development`
 
-**💻 Ayuntamiento de La Orotava**  
-`Formación en empresa · 2º SMR`
-
----
-
-## ⭐ Proyectos destacados
-
-### 🖨️ PideloEn3D
-
-Aplicación web de pedidos de impresión 3D.
-
-Proyecto personal iniciado en **2026** y actualmente **en desarrollo activo**.
-
-`Python` · `Django` · `SQLite` · `HTML` · `CSS`
-
-🔒 Repositorio privado
+**💻 La Orotava Town Hall**  
+`Work-based training · 2nd-year Microcomputer Systems and Networks`
 
 ---
 
-### 🌊 KnowFlow
+## ⭐ Featured Projects
 
-Aplicación web de educación desarrollada como **TFG de 2º DAW**.
+### PideloEn3D
 
-Proyecto con el que puse en práctica los conocimientos adquiridos durante el ciclo.
+Web application for 3D printing orders.
+
+Project started in **2026** and currently **under active development**.
 
 `Python` · `Django` · `SQLite` · `HTML` · `CSS`
 
-🔒 Repositorio privado
+🔒 Private repository
+
+---
+
+### KnowFlow
+
+Educational web application developed as the **final project of the 2nd year of Web Application Development**.
+
+A project where I put into practice the knowledge acquired throughout the course.
+
+`Python` · `Django` · `SQLite` · `HTML` · `CSS`
+
+🔒 Private repository
 
 ---
 
 ## 🎯 Goal
 
-Seguir creciendo como desarrollador, profundizando en **Java** y ampliando mis conocimientos en desarrollo de aplicaciones, **IA** y **Big Data**.
+Continue growing as a developer, deepening my knowledge of **Java** and expanding my skills in application development, **AI**, and **Big Data**.
 
 ---
 
-## 📫 Contact
+## Contact
 
 📧 **Email:** [moiicnfg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=moiicnfg@gmail.com)
 
