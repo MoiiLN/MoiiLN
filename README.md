@@ -24,7 +24,7 @@ Actualmente estoy profundizando en **Java y el desarrollo de aplicaciones**, con
 
 | Category | Technologies |
 |:---|:---|
-| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,python" /> |
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,python,javascript" /> |
 | **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,django" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=sqlite" /> |
 | **Development Tools** | <img src="https://skillicons.dev/icons?i=idea,vscode" /> |
