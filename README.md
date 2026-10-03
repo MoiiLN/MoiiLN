@@ -46,32 +46,6 @@ I am currently focusing on **Java and application development**, with an interes
 
 ---
 
-## ⭐ Featured Projects
-
-### PideloEn3D
-
-Web application for 3D printing orders.
-
-Project started in **2026** and currently **under active development**.
-
-`Python` · `Django` · `SQLite` · `HTML` · `CSS`
-
-🔒 Private repository
-
----
-
-### KnowFlow
-
-Educational web application developed as the **final project of the 2nd year of Web Application Development**.
-
-A project where I put into practice the knowledge acquired throughout the course.
-
-`Python` · `Django` · `SQLite` · `HTML` · `CSS`
-
-🔒 Private repository
-
----
-
 ## 🎯 Goal
 
 Continue growing as a developer, deepening my knowledge of **Java** and expanding my skills in application development, **AI**, and **Big Data**.
