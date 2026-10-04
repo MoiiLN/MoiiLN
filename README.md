@@ -38,19 +38,19 @@ I am currently focusing on **Java and application development**, with an interes
 ## Experience
 
 **🏛️ Santa Úrsula Town Hall**  
-`Work-based training · 2nd-year Web Application Development`
+`2nd-year Web Application Development`
 
 **🚀 Hyperspace Canarias**  
-`Work-based training · 1st-year Web Application Development`
+`1st-year Web Application Development`
 
 **💻 La Orotava Town Hall**  
-`Work-based training · 2nd-year Microcomputer Systems and Networks`
+`2nd-year Microcomputer Systems and Networks`
 
 ---
 
 ## 🎯 Goal
 
-Continue growing as a developer, deepening my knowledge of **Java** and expanding my skills in application development, **AI**, and **Big Data**.
+Continue growing as a developer and improving my English skills, deepening my knowledge of **Java** and expanding my skills in application development, **AI**, and **Big Data**.
 
 ---
 
