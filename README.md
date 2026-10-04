@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="2056" height="765" alt="8bd995eb-9794-42b3-8735-cb3da46bc458" src="https://github.com/user-attachments/assets/05e2ab28-a4ee-4d64-b43f-4f3e47ecb08a" />
+
 # 👨‍💻 MOISÉS PÉREZ
 
 ### 2nd-year Multiplatform Application Development Student | Java & Application Development
@@ -57,6 +59,8 @@ Continue growing as a developer, deepening my knowledge of **Java** and expandin
 📧 **Email:** [moiicnfg@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=moiicnfg@gmail.com)
 
 💻 **GitHub:** [github.com/MoiiLN](https://github.com/MoiiLN)
+
+💼 **Linkedin:** [linkedin/moises-perez](www.linkedin.com/in/moisés-pérez-3b1b4a365)
 
 ---
 
