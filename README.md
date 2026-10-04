@@ -60,7 +60,7 @@ Continue growing as a developer, deepening my knowledge of **Java** and expandin
 
 💻 **GitHub:** [github.com/MoiiLN](https://github.com/MoiiLN)
 
-💼 **Linkedin:** [linkedin/moises-perez](www.linkedin.com/in/moisés-pérez-3b1b4a365)
+💼 **Linkedin:** [linkedin/moises-perez](www.linkedin.com/in/moises-perez-fullstack)
 
 ---
 
