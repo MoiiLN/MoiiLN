@@ -1,12 +1,11 @@
 <div align="center">
 
-<img width="2056" height="765" alt="8bd995eb-9794-42b3-8735-cb3da46bc458" src="https://github.com/user-attachments/assets/05e2ab28-a4ee-4d64-b43f-4f3e47ecb08a" />
+<img width="2056" height="765" alt="a1092178-6f7e-4aa9-b5b3-85387c427588" src="https://github.com/user-attachments/assets/0039412c-6c65-4c34-bca2-a264a5b7d7bd" />
 
-# 👨‍💻 MOISÉS PÉREZ
 
 ### 2nd-year Multiplatform Application Development Student | Java & Application Development
 
-📍 IES Telesforo Bravo · Tenerife
+📍 IES Puerto de la Cruz - Telesforo Bravo · Tenerife
 
 </div>
 
