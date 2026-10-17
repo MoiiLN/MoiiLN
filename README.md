@@ -25,12 +25,12 @@ I am currently focusing on **Java and application development**, with an interes
 
 | Category | Technologies |
 |:---|:---|
-| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,python,javascript" /> |
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=java,python,javascript, react" /> |
 | **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,django" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=sqlite" /> |
 | **Development Tools** | <img src="https://skillicons.dev/icons?i=idea,vscode" /> |
 | **Version Control** | <img src="https://skillicons.dev/icons?i=git,github" /> |
-| **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux" /> |
+| **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux, windows" /> |
 
 ---
 
